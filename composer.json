@@ -1,0 +1,20 @@
+{
+    "name": "moulinsart/commander",
+    "description": "",
+    "authors": [
+        {
+            "name": "James Donaldson",
+            "email": "jmsdnldsn@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Moulinsart\\Commander\\": "src/Moulinsart/Commander"
+        }
+    },
+    "minimum-stability": "stable"
+}
